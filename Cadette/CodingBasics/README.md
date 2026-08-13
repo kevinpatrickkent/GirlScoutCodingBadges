@@ -40,6 +40,8 @@ Requirements for completing Step 4:
     3) Download the files in the CodingBasics folder above:
         You need to place index.html, main.js, and server.js into a folder named something like my-game on your computer (Documents folder great choice)
 
+    4) Open a terminal in the folder where you stored those file.
+
 
 
 Notes on Node.js:
