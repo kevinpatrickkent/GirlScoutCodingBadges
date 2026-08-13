@@ -32,9 +32,15 @@ meme that can have an impact on other people, my community, and the world.
 
 Requirements for completing Step 4:
     1) Install Node.js: https://nodejs.org/en/download
+        At the time I installed this there was a checkbox asking whether or not you wanted to install other programs including chocalotey - you do not need those for this setup.
     2) Text file editor.  Notepad works well and it's probably already on your computer.
 
 1) Install Node.js: https://nodejs.org/en/download
 2) Text file editor.  Notepad works well and it's probably already on your computer.
-for what we are doing, Notepad++ will make the coding blocks easier to see, and VSCode will make things even easier.  Sometimes starting with notepad is nice so that people can learn that many complex programs are managed by simple text files.  You can always get a more complex text file editor later.
+
+Notes on Node.js:
     This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
+
+Notes on the Text Editor:
+for what we are doing, Notepad++ will make the coding blocks easier to see, and VSCode will make things even easier.  Sometimes starting with notepad is nice so that people can learn that many complex programs are managed by simple text files.  You can always get a more complex text file editor later.
+
