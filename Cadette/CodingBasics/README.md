@@ -40,8 +40,7 @@ Requirements for completing Step 4:
     3) Download the files in the CodingBasics folder above:
         You need to place index.html, main.js, and server.js into a folder named something like my-game on your computer (Documents folder great choice)
 
-1) Install Node.js: https://nodejs.org/en/download
-2) Text file editor.  Notepad works well and it's probably already on your computer.
+
 
 Notes on Node.js:
     This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
