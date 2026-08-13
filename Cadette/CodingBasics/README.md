@@ -10,16 +10,21 @@ Steps
 3. Write pseudocode for a meme
 
     Again did not spend a lot of time on this part.
-       1. Display Image
-       2. Display Text
+       1. Display Background
+       2. Display thoughtful sprite
+       3. Use variables to define spacing of buttons, textboxes, and text
+       4. Display buttons
+       4. Display textboxes
+       5. Display text in boxes
 
-4. Write shareable code
+5. Write shareable code
 
     In the example section the main.js files for making an example meme are shown
 
-5. Share your meme
+6. Share your meme
 
-    Save the meme image and send it to someone!
+    In order to complete this one we chose uploading to itch.io as a comic (example: https://kevinpatrickkent.itch.io/procrastinate)
+    You could also share with someone else outside girls scouts (i.e. text, email to friend/family/etc..)
 
 When I’ve earned this badge, I’ll know the basics of computer coding and how to create a
 meme that can have an impact on other people, my community, and the world.
