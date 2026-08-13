@@ -31,9 +31,12 @@ meme that can have an impact on other people, my community, and the world.
 *******************************************************************************************************************
 
 Requirements for completing Step 4:
+
     1) Install Node.js: https://nodejs.org/en/download
         At the time I installed this there was a checkbox asking whether or not you wanted to install other programs including chocalotey - you do not need those for this setup.
+        
     2) Text file editor.  Notepad works well and it's probably already on your computer.
+    
     3) Download the files in the CodingBasics folder above:
         You need to place index.html, main.js, and server.js into a folder named something like my-game on your computer (Documents folder great choice)
 
