@@ -1,3 +1,5 @@
+***************************************************************************************************************
+
 Badge Requirements:
 
 1. Learn about functions and arguments
@@ -25,6 +27,8 @@ Badge Requirements:
 
 When I’ve earned this badge, I’ll know the basics of computer coding and how to create a
 meme that can have an impact on other people, my community, and the world.
+
+*******************************************************************************************************************
 
 Requirements for completing Step 4:
     1) Install Node.js: https://nodejs.org/en/download
