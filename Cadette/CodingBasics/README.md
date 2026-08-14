@@ -84,6 +84,10 @@ Steps for completing Step 4:
                 pos(100,100)
             ]);
 
+    9) After you get done playing around with those you can load sprites of your choice.  The loadBean() is a special preloaded
+        sprite that comes in the KAPLAY package.  To load other sprites you need to first download them, and then load them.
+            Go here to see many KAPLAY sprites ready for you to use: https://kaplayjs.com/crew/
+
 
 Notes on Node.js:
     This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
