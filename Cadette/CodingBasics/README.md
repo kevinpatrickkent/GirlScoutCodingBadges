@@ -30,7 +30,7 @@ meme that can have an impact on other people, my community, and the world.
 
 *******************************************************************************************************************
 
-Requirements for completing Step 4:
+Steps for completing Step 4:
 
     1) Install Node.js: https://nodejs.org/en/download
         At the time I installed this there was a checkbox asking whether or not you wanted to install other programs including chocalotey - you do not need those for this setup.
