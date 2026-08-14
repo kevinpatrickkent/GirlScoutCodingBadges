@@ -98,6 +98,12 @@ Steps for completing Step 4:
         Note that I used variables to define spacing, and this was helpful in getting things adjusted as well as
         being a good way to get used to using variables.
 
+    11) For the sharing step you can upload on itch.io
+        Store the whole folder with your sprites and the code files (html and js) in a zip file
+        Upload to itch.io as a comic since it doesn't have any interaction.
+
+    12) I would be happy to add your examples and links to your work here in GitHub for others.  Please let me know!
+
 
 Notes on Node.js:
     This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
