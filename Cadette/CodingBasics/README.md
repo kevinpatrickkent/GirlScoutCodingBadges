@@ -106,8 +106,15 @@ Steps for completing Step 4:
 
 
 Notes on Node.js:
-    This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
+    This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this 
+    to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
 
 Notes on the Text Editor:
-for what we are doing, Notepad++ will make the coding blocks easier to see, and VSCode will make things even easier.  Sometimes starting with notepad is nice so that people can learn that many complex programs are managed by simple text files.  You can always get a more complex text file editor later.
+    For what we are doing, Notepad++ will make the coding blocks easier to see, and VSCode will make things even easier.  Sometimes 
+    starting with notepad is nice so that people can learn that many complex programs are managed by simple text files.  You can always 
+    get a more complex text file editor later.
+
+Notes on KAPLAY:
+    I chose this platform with making a game for the coding badge in mind.  Kaplay has resources set up to make game making an easier 
+    step so we're starting there.  The walkthrough for a first game here was useful: https://kaplayjs.com/docs/guides/creating_your_first_game/
 
