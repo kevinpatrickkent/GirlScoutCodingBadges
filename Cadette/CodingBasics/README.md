@@ -86,7 +86,12 @@ Steps for completing Step 4:
 
     9) After you get done playing around with those you can load sprites of your choice.  The loadBean() is a special preloaded
         sprite that comes in the KAPLAY package.  To load other sprites you need to first download them, and then load them.
-            Go here to see many KAPLAY sprites ready for you to use: https://kaplayjs.com/crew/
+            a) Go here to see many KAPLAY sprites ready for you to use: https://kaplayjs.com/crew/
+            b) Download the ones you want and put them in the same folder as your scripts.
+            c) Use this command to load them: loadSprite("been", "been.png");
+                "been.png" should be the name of your sprite you downloaded.
+            d) The command above is the same as the loadBean() command above, use the command along with the add command.
+                add([sprite("been"), pos(20,20)]); // this would actually add the 'been.png' sprite.
 
 
 Notes on Node.js:
