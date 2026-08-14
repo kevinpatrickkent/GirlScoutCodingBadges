@@ -41,7 +41,29 @@ Requirements for completing Step 4:
         You need to place index.html, main.js, and server.js into a folder named something like my-game on your computer (Documents folder great choice)
 
     4) Open a terminal in the folder where you stored those file.
+        There are many ways to do this - here is one.  Go to the folder where you stored the files, and then type 'cmd' in the address bar and then hit enter.
+        A terminal should open to allor you to enter commands.
 
+    5) Enter the following command: node server.js
+        You should see something like this printed out in the terminal: Game running at http://localhost:8080
+
+    6) Copy and paste the http address from step 5 into the address bar of your browser.  When you load the browser you should see a checkered background with 'Hello, KAPLAY!' displayed.
+        Congrats that is your first run of a javascript program!
+
+    7) Now go back to the folder where the files are stored, right click on the main.js file, and open with notepad, notepad++, or whichever text editor you are using.
+        You can now edit the commands, save the file, and then reload the http:localhost:8080 webpage to see what happens.
+        Remember change stuff and break things - you can always download these files again.
+        Leading questions:
+            What does the add command do?  How about the parts inside of the add command? What does the pos(80,200) setting do?
+
+    8) In order to make the meme we are going to need some more commands.  Here are some additional commands to type in and try:
+    
+        setBackground(0,0,0); //try this and see what happens
+        
+        loadBean() //put these two in together
+        add([sprite("bean"), pos(80,300), scale(3), color(0, 255, 0)]);
+
+        When you enter these commands they should be after the kaplay() line and then either before or after the add(...) command
 
 
 Notes on Node.js:
