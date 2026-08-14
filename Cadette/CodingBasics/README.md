@@ -65,6 +65,20 @@ Steps for completing Step 4:
 
         When you enter these commands they should be after the kaplay() line and then either before or after the add(...) command
 
+        Example:
+
+            kaplay()  //already in the code
+            
+            setBackground(0,0,0); //try this and see what happens
+            
+            loadBean(); //put these two in together
+            add([sprite("bean"), pos(80,300), scale(3), color(0, 255, 0)]);
+
+            add([  //already in the code
+                text("Hello, KAPLAY!"),
+                pos(100,100)
+            ]);
+
 
 Notes on Node.js:
     This is used so that you can make a local server to display your webpage with your javascript game embedded.  You will need this to start the local server, and then you will be able to view the changes you make in your javascript code on the webpage.
