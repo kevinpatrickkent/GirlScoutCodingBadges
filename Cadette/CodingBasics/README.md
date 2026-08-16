@@ -38,11 +38,9 @@ Steps for completing Step 4:
         
     2) Text file editor.  Notepad works well and it's probably already on your computer.
     
-    3) Download the files in the CodingBasics folder above:
-        You need to place index.html, main.js, and server.js into a folder named something like my-game on your computer 
-        (Documents folder great choice)
+    3) Download the files the CodingBasics.zip file and extract on your machine.
 
-    4) Open a terminal in the folder where you stored those file.
+    4) Open a terminal in the CodingBasics folder (the one you just extracted):
         There are many ways to do this - here is one.  Go to the folder where you stored the files, and then type 'cmd' in the 
         address bar and then hit enter. A terminal should open to allow you to enter commands.
 
