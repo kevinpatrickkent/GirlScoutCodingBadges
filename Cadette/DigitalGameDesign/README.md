@@ -39,4 +39,5 @@ Getting started on the game tutorial:
 6) Start the tutorial at https://kaplayjs.com/docs/guides/creating_your_first_game/ and add commands to this main.js file.
 
    Notes: -When the instructions ask you to load sprites, make sure you have them downloaded in your folder.
+   
           -Whenever you get an error, try pressing F12 on the browser and looking at the error messages to troubleshoot
