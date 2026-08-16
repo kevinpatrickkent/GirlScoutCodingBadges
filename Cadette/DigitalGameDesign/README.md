@@ -40,6 +40,7 @@ Getting started on the game tutorial:
 
    Notes: -When the instructions ask you to load sprites, make sure you have them downloaded in your folder.
 
-          -If you want to follow the tutorial exactly, then you need to make a folder called: sprites, in your KaplayTutorial folder and download the bean.png sprite to that folder
+          -If you want to follow the tutorial exactly, then you need to make a folder called: sprites, in your KaplayTutorial folder
+            and download the bean.png sprite to that folder
    
           -Whenever you get an error, try pressing F12 on the browser and looking at the error messages to troubleshoot
