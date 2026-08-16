@@ -1,3 +1,9 @@
+Prerequisites:
+
+1. Complete Cadette Coding for Good Badge
+
+2. Complete Kaplay game tutorial: https://kaplayjs.com/docs/guides/creating_your_first_game/
+
 ***************************************************************************************************************
 
 Badge Requirements:
