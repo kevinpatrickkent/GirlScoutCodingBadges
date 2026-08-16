@@ -27,3 +27,14 @@ own character.
 Getting started on the game tutorial:
 
 1) Copy your folder from the Coding for Good badge (the folder containing index.html, main.js, server.js...) and rename it to KaplayTutorial
+
+2) Open the folder KaplayTutorial and type cmd in the address bar for File Explorer
+
+3) Enter the command: node server.js
+
+4) Copy the web address into your browser and hit enter - it will load your meme from main.js
+
+5) Open the main.js file in your text editor (i.e. notepad or equivalent).  Delete all text.
+
+6) Start the tutorial at https://kaplayjs.com/docs/guides/creating_your_first_game/ and add commands to this main.js file.
+     When the instructions ask you to load sprites, make sure you have them downloaded in your folder
