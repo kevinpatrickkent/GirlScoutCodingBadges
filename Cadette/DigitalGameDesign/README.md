@@ -26,16 +26,22 @@ own character.
 
 Getting started on the game tutorial:
 
-1) Download all of the files and folders above and place in a folder called DigitalGameDesign
+1) Install Node.js: https://nodejs.org/en/download
+    At the time I installed this there was a checkbox asking whether or not you wanted to install other programs including 
+    chocalotey - you do not need those for this setup.
+    
+2) Text file editor.  Notepad works well and it's probably already on your computer.
 
-2) Open the folder DigitalGameDesign and type cmd in the address bar for File Explorer
+3) Download all of the files and folders above and place in a folder called DigitalGameDesign
 
-3) Enter the command: node server.js
+4) Open the folder DigitalGameDesign and type cmd in the address bar for File Explorer
 
-4) Copy the web address into your browser and hit enter - it will load a blank webpage
+5) Enter the command: node server.js
 
-5) Open the main.js file in your text editor (i.e. notepad or equivalent).
+6) Copy the web address into your browser and hit enter - it will load a blank webpage
 
-6) Start the tutorial at https://kaplayjs.com/docs/guides/creating_your_first_game/ and add commands to this main.js file.
+7) Open the main.js file in your text editor (i.e. notepad or equivalent).
+
+8) Start the tutorial at https://kaplayjs.com/docs/guides/creating_your_first_game/ and add commands to this main.js file.
    
    -Whenever you get an error, try pressing F12 on the browser and looking at the error messages to troubleshoot
