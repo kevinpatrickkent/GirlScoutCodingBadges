@@ -32,7 +32,7 @@ Getting started on the game tutorial:
     
 2) Text file editor.  Notepad works well and it's probably already on your computer.
 
-3) Download all of the files and folders above and place in a folder called DigitalGameDesign
+3) Download the DigitalGameDesign.zip file and extract it on your machine.
 
 4) Open the folder DigitalGameDesign and type cmd in the address bar for File Explorer
 
