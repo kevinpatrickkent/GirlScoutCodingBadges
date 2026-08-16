@@ -23,3 +23,7 @@ designed a game scenario, stored an image with an array, and used JavaScript to 
 own character.
 
 *******************************************************************************************************************
+
+Getting started on the game tutorial:
+
+1) Copy your folder from the Coding for Good badge (the folder containing index.html, main.js, server.js...) and rename it to KaplayTutorial
